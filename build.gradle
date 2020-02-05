@@ -29,14 +29,14 @@ plugins {
 
 apply plugin: "io.spinnaker.plugin.bundler"
 
+version = normalizedVersion()
+
 spinnakerBundle {
   pluginId = "com.robzienert.helloworld"
   description = "An example of a plugin, it doesn't really do anything."
   provider = "https://github.com/robzienert"
   version = rootProject.version
 }
-
-version = normalizedVersion()
 
 subprojects {
   group = "com.robzienert.spinnaker.plugin.helloworld.orca"
