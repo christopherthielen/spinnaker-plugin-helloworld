@@ -1,0 +1,37 @@
+{
+  "name": "check-peer-dependencies",
+  "version": "1.0.9-1d0d5d32",
+  "description": "Checks peer dependencies of the current package.  Offers solutions for any that are unmet.",
+  "main": "dist/check_peer_dependencies.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "release": "release",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "check-peer-dependencies": "dist/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherthielen/check-peer-dependencies.git"
+  },
+  "keywords": [
+    "nodejs",
+    "install",
+    "peer",
+    "dependencies"
+  ],
+  "author": "Chris Thielen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherthielen/check-peer-dependencies/issues"
+  },
+  "homepage": "https://github.com/christopherthielen/check-peer-dependencies#readme",
+  "dependencies": {
+    "resolve": "^1.14.1",
+    "semver": "^7.1.1",
+    "shelljs": "^0.8.3",
+    "yargs": "^15.0.2"
+  }
+}

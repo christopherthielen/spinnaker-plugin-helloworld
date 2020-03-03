@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebeb713d-6dc4-42d1-a42e-54aad95d9c0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/checkPeerDependencies.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkPeerDependencies.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cli.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SkfJRmHXPtjMGY19cBVwFevkIM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/packageUtils.ts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebeb713d-6dc4-42d1-a42e-54aad95d9c0a" name="Default Changelist" comment="" />
+      <created>1571006496712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571006496712</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: switch to typescript">
+      <created>1571007201760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571007201760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: add shelljs dependency">
+      <created>1571008199622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571008199622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: add yargs and shelljs dependency">
+      <created>1571008453348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571008453348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: add yargs and shelljs and semver dependencies">
+      <created>1571008498672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571008498672</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor: extract cli.ts">
+      <created>1571008560038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571008560038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix(packageManager): remove console.log, switch to boolean parameters">
+      <created>1571093507409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571093507409</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix(checkPeerDependencies): check for yalc'd packages using installedVersion, not dependerVersion">
+      <created>1571093769947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571093769947</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore: Add README.md and CHANGELOG.md">
+      <created>1571094079838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571094079838</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Add better support for packages installed via yalc&#10;&#10;Ignore incorrect peer dependencies, if the package has been installed via yalc.&#10;&#10;https://github.com/whitecolor/yalc&#10;yalc is a tool for locally publishing packages. &#10;It's like 'npm link', but better emulates installing a package from npm.&#10;If a package has been installed using yalc, we assume that it was intentional.&#10;In my workflow, this means I'm testing a package against some downstream integration test.">
+      <created>1571162983633</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571162983633</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: Recursively check for new unmet peer dependencies after installing when using --install&#10;&#10;A peer dependency was installed (using --install) but that package itself had unmet peerDependencies.&#10;This change will detect that additional peerDependencies were unmet after running install and recursively installs them.">
+      <created>1574623951874</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574623951874</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: sort peer dependencies by depender package name first">
+      <created>1574641174029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574641174030</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: when recursively installing peer deps, don't re-process previously unmet peer deps">
+      <created>1574641283519</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574641283520</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: Update packageFilter for breaking change in resolve package&#10;&#10;https://github.com/browserify/resolve/commit/ed46ce6a339ce1fa77993da061704a93b79a7fdc">
+      <created>1574716989534</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574716989534</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: Revert fix for breaking change in resolve package after they reverted the breaking change itself. &#10;https://github.com/browserify/resolve/commit/ca0fa418c8628415642a8a365864bc5068cabf0a">
+      <created>1577411825367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577411825367</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(debug): Added a --debug cli flag&#10;This option prints each package.json that is parsed, and the peer deps found in each one">
+      <created>1577755329362</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1577755329362</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat(orderBy): Added a --orderBy cli flag&#10;This option changes the sorting of output to either 'depender' or 'dependee'">
+      <created>1577756345502</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1577756345502</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: switch to typescript" />
+    <MESSAGE value="chore: add shelljs dependency" />
+    <MESSAGE value="chore: add yargs and shelljs dependency" />
+    <MESSAGE value="chore: add yargs and shelljs and semver dependencies" />
+    <MESSAGE value="refactor: extract cli.ts" />
+    <MESSAGE value="fix(packageManager): remove console.log, switch to boolean parameters" />
+    <MESSAGE value="fix(checkPeerDependencies): check for yalc'd packages using installedVersion, not dependerVersion" />
+    <MESSAGE value="chore: Add README.md and CHANGELOG.md" />
+    <MESSAGE value="feat: Add better support for packages installed via yalc&#10;&#10;Ignore incorrect peer dependencies, if the package has been installed via yalc.&#10;&#10;https://github.com/whitecolor/yalc&#10;yalc is a tool for locally publishing packages. &#10;It's like 'npm link', but better emulates installing a package from npm.&#10;If a package has been installed using yalc, we assume that it was intentional.&#10;In my workflow, this means I'm testing a package against some downstream integration test." />
+    <MESSAGE value="feat: Recursively check for new unmet peer dependencies after installing when using --install&#10;&#10;A peer dependency was installed (using --install) but that package itself had unmet peerDependencies.&#10;This change will detect that additional peerDependencies were unmet after running install and recursively installs them." />
+    <MESSAGE value="feat: sort peer dependencies by depender package name first" />
+    <MESSAGE value="feat: when recursively installing peer deps, don't re-process previously unmet peer deps" />
+    <MESSAGE value="fix: Update packageFilter for breaking change in resolve package&#10;&#10;https://github.com/browserify/resolve/commit/ed46ce6a339ce1fa77993da061704a93b79a7fdc" />
+    <MESSAGE value="fix: Revert fix for breaking change in resolve package after they reverted the breaking change itself. &#10;https://github.com/browserify/resolve/commit/ca0fa418c8628415642a8a365864bc5068cabf0a" />
+    <MESSAGE value="feat(debug): Added a --debug cli flag&#10;This option prints each package.json that is parsed, and the peer deps found in each one" />
+    <MESSAGE value="feat(orderBy): Added a --orderBy cli flag&#10;This option changes the sorting of output to either 'depender' or 'dependee'" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(orderBy): Added a --orderBy cli flag&#10;This option changes the sorting of output to either 'depender' or 'dependee'" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="89" key="CommitChangelistDialog2" timestamp="1577756345433">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="478" y="89" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1577756345433" />
+    <state x="544" y="333" key="Vcs.Push.Dialog.v2" timestamp="1577756348879">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="544" y="333" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1577756348879" />
+    <state x="594" y="338" width="699" height="518" key="find.popup" timestamp="1577410449587">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="594" y="338" width="699" height="518" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1577410449587" />
+  </component>
+</project>

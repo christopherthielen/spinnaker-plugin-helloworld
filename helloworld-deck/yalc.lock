@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "@spinnaker/pluginsdk": {
+      "signature": "fd6172da60dc492d6e9025258aa0b149",
+      "file": true
+    },
+    "check-peer-dependencies": {
+      "signature": "1d0d5d3238c7cc0ed62717b066a8352f",
+      "file": true
+    }
+  }
+}
